@@ -10,6 +10,6 @@
  */
 public class X {
     public static void main(String []jav){
-        System.out.println ("Hola mundo");
+        System.out.println ("Hola mundo1");
     }    
 }
